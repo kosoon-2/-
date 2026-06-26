@@ -30,8 +30,6 @@ title: "[Future CV] 미래를 선도하는 그래픽 엔지니어 이력서"
 * 숙명여대 리더십그룹 'IT'sU' 내 프로젝트
   [스노보드개선](https://github.com/kosoon-2/2026_exercise_1) 
 * AICE 자격증 취득을 위한 학습 플랫폼 개발
-  AICE
-  
 
 ## 자격증
 * 제한무선통신사
